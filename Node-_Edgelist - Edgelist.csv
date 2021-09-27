@@ -1,0 +1,12 @@
+from,to,weight
+Jay,Gloria,2
+Gloria,Jay,3
+Phil,Claire,1
+Claire,Phil,2
+Cameron,Claire,1
+Cameron,Mitchell,3
+Mitchell,Cameron,2
+Jay,Mitchell,1
+Claire,Gloria,2
+Jay,Phil,2
+Cameron,Gloria ,1
